@@ -40,5 +40,4 @@ Refer to README.md for each repo for any information on how to run each project.
 - [LeadMeLabs---HostingServer-Station](https://github.com/LuminationDev/LeadMeLabs---HostingServer-Station)
 - [LeadMeLabs-QA-Hosting](https://github.com/LuminationDev/LeadMeLabs-QA-Hosting)
 - [LeadMeLabs-Launcher-Hosting-Development](https://github.com/LuminationDev/LeadMeLabs-Launcher-Hosting-Development)
-- [LeadMe-Prototypes](https://github.com/LuminationDev/LeadMe-Prototypes)
 - [LeadMeLabs-RemoteConfigAuth](https://github.com/LuminationDev/LeadMeLabs-RemoteConfigAuth)
