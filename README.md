@@ -30,7 +30,6 @@ Refer to README.md for each repo for any information on how to run each project.
 - [LeadMeLabs-Projector](https://github.com/LuminationDev/LeadMeLabs-Projector)
 - [LeadMeLabs-Plugin-CSharp](https://github.com/LuminationDev/LeadMeLabs-Plugin-CSharp)
 - [LeadMeLabs-Launcher-Offline](https://github.com/LuminationDev/LeadMeLabs-Launcher-Offline)
-- [LeadMe-OpenBrush](https://github.com/LuminationDev/LeadMe-OpenBrush)
 - [LeadMeLabs-Realtime-Dashboard](https://github.com/LuminationDev/LeadMeLabs-Realtime-Dashboard)
 - [LeadMeLabs-NuGet](https://github.com/LuminationDev/LeadMeLabs-NuGet)
 - [LeadMe-WebXR-Viewer](https://github.com/LuminationDev/LeadMe-WebXR-Viewer)
